@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminnkem
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me... You can reach me on WhatsApp +2348133961439
 
