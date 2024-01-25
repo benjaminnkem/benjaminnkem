@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Nkem Benjamin</h1>
-<h3 align="center">Fullstack Developer, 2D Unity Game Developer and a Python developer</h3>
+<h3 align="center">Fullstack Developer, Unity Game Developer and a Python developer</h3>
 <div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjaminnkem" alt="benjaminnkem" /></a> </p>
   <p align="left"> <a href="https://twitter.com/mainnkem" target="blank"><img src="https://img.shields.io/twitter/follow/mainnkem?logo=twitter&style=for-the-badge" alt="mainnkem" /></a> </p>
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [bstore](https://github.com/benjaminnkem/bstore)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Astro Web Framework and C#**
 
-- 👯 I’m looking to collaborate on **marvee**
+- 👯 I’m looking to collaborate on **web tech projects**
 
-- 💬 Ask me about **ReactJs, MERN Stack**
+- 💬 Ask me about **dev topics**
 
 - 📫 How to reach me **benjaminnkemfrancis@gmail.com**
 
