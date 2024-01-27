@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **benjaminnkemfrancis@gmail.com**
 
-- ⚡ Fun fact **I love boring things, coding, and learning new things.**
+- ⚡ Fun fact **I love boring stuff, coding, and learning new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
