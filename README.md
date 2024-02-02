@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [bstore](https://github.com/benjaminnkem/bstore)
 
-- 🌱 I’m currently learning **Astro Web Framework and C#**
+- 🌱 I’m currently learning **Astro Web Framework and Golang**
 
 - 👯 I’m looking to collaborate on **web tech projects**
 
