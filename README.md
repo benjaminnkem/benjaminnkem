@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Benjamin Nkem</h1>
-<h3 align="center">A passionate fullstack JavaScript/Typescript Python developer</h3>
+<h3 align="center">A passionate fullstack JavaScript/Typescript & Python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminnkem&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminnkem" /> </p>
 
