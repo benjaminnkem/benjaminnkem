@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mainnkem" target="blank"><img src="https://img.shields.io/twitter/follow/mainnkem?logo=twitter&style=for-the-badge" alt="mainnkem" /></a> </p>
 
-- 🌱 I’m currently learning **Astro Web Framework and Golang**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://benjaminnkem.vercel.app/](https://benjaminnkem.vercel.app/)
 
