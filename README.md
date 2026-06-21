@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-# - 👨‍💻 All of my projects are available at [https://benjaminnkem.vercel.app/](https://benjaminnkem.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://benjaminnkem.vercel.app/](https://benjaminnkem.vercel.app/) -->
 
 - 💬 Ask me about **JavaScript, Typescript, Node.js/Express, React, Next.js**
 
